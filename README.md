@@ -1,3 +1,5 @@
+name: Amirthavarshini.R.D
+ref number : 23000987
 # Ex-02-Admin
 
 # AIM 
@@ -16,5 +18,5 @@ Create a Django website with five users. Two users are to be staff users (includ
 #output:
 ![Screenshot 2023-11-24 114232](https://github.com/amirtha5591/ODD2023-WT-Ex-02-Admin/assets/145742831/3e9562d1-8405-4b08-bd3e-ac3f10a80100)
 #result:
-this programme is executed successfully
+This programme is executed successfully
 
